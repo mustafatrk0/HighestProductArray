@@ -23,6 +23,14 @@ int main() {
     return 0;
 }
 ```
+```cpp
+@Ciktilar     :
+				10 ardisik carpim sonucu = 493807104 elemanlar baslangic 315'dan 324. elemana kadar 926 denemede buldu.
+				13 ardisik carpim sonucu = 2091059712 elemanlar baslangic 438'dan 450. elemana kadar 923 denemede buldu.
+				14 ardisik carpim sonucu = 2123366400 elemanlar baslangic 657'dan 670. elemana kadar 922 denemede buldu.
+				15 ardisik carpim sonucu = 2099380224 elemanlar baslangic 651'dan 665. elemana kadar 921 denemede buldu.
+
+```
 
 ## Result
 Upon running the program, you will see the highest product along with the starting and ending indices for the consecutive numbers.
